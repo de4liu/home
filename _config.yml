@@ -11,9 +11,9 @@ title                    : "Dr. De Liu"
 title_separator          : "-"
 name                     : &name "Dr. De Liu"
 description              : &description "Associate Professor of Information and Decision Sciences at University of Minnesota"
-url                      : https://deliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://de4liu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages.github.io"
+repository               : "home"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -85,7 +85,7 @@ author:
   bio              : "De Liu is an Associate professor of Information and Decision Sciences and 3M Fellow in Business Analytics at the Carlson School of Management, University of Minnesota. His research interests include mechanism design issues in digital auctions, gamification, crowdsourcing, crowdfunding, and social commerce. He currently serves as an associate editor for Information Systems Research and Journal of Organizational Computing and Electronic Commerce and the academic director for MS in Business Analytics (MSBA) program at the Carlson School."
   location         : "Minneapolis, MN"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Xt-c9ucAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
