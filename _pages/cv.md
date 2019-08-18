@@ -6,10 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+{% include base_path %}
 
-[Download Curriculum Vitae [PDF]](/home/files/liu_cv.pdf)
-
-<!-- {% include base_path %} -->
+[Download Curriculum Vitae (PDF)](/home/files/liu_cv.pdf)
 
 Education
 ======
@@ -17,7 +16,7 @@ Education
 * M.S. in Management Science and Engineering, Tsinghua University, 2000
 * B.E. in Management Information Systems, Tsinghua University, 1998
 
-Work experience
+Work Experience
 ======
 * Associate Professor & 3M Fellow in Business Analytics, University of Minnesota, 2017 - present 
 * Associate Professor, University of Minnesota,  2014 - 2016
