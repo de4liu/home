@@ -13,7 +13,7 @@ name                     : &name "Dr. De Liu"
 description              : &description "Associate Professor, Information and Decision Sciences, University of Minnesota"
 url                      : "https://de4liu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "home" # the subpath of your site, e.g. "/blog"
-repository               : "home"
+repository               : "de4liu/home"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"de4liu"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
