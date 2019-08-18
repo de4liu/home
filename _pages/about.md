@@ -13,9 +13,13 @@ Welcome to Dr. De Liu's home on the web!
 # De Liu
 
 Associate Professor & 3M Fellow in Business Analytics
+
 Academic Director, Master of Science in Business Analytics
+
 Department of Information and Decision Sciences
+
 Carlson School of Management 
+
 University of Minnesota
 
 ### Address
