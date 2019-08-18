@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download Curriculum Vitae [PDF]](/files/liu_cv.pdf)
+[Download Curriculum Vitae [PDF]](/home/files/liu_cv.pdf)
 
 <!-- {% include base_path %} -->
 
