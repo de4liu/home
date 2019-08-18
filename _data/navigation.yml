@@ -1,17 +1,25 @@
 # main links links
 main:
+  - title: "CV/Bio"
+    url: /cv/
+
+
   - title: "Publications"
     url: /publications/
 
   # journal and conference papers
 
   - title: "Working Papers"
-    url: /talks/    
-
-
+    url: /wp/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+
+  - title: "Awards"
+    url: /awards/
+
+  - title: "Contact"
+    url: /contact/  
     
   # - title: "Blog Posts"
   #   url: /year-archive/

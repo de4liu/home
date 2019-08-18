@@ -10,9 +10,9 @@ locale                   : "en-US"
 title                    : "Dr. De Liu"
 title_separator          : "-"
 name                     : &name "Dr. De Liu"
-description              : &description "Associate Professor of Information and Decision Sciences at University of Minnesota"
+description              : &description "Associate Professor, Information and Decision Sciences, University of Minnesota"
 url                      : "https://de4liu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "home"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Dr. De Liu"
   avatar           : "de_liu.jpg"
-  bio              : "Associate Professor of Information and Decision Sciences, University of Minnesota"
+  bio              : "Associate Professor, Information and Decision Sciences, University of Minnesota"
   location         : "Minneapolis, MN"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Xt-c9ucAAAAJ"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "deliu@umn.edu"
+  researchgate     : "https://www.researchgate.net/profile/De_Liu3"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"de4liu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-9430-9732"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -216,7 +216,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
@@ -225,7 +225,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _portfolio
   - scope:
@@ -241,7 +241,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 

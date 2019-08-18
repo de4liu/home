@@ -1,53 +1,28 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download Curriculum Vitae [PDF]](/files/liu_cv.pdf)
+
+<!-- {% include base_path %} -->
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Management Sci and Info Systems, University of Texas at Austin, 2004 
+* M.S. in Management Science and Engineering, Tsinghua University, 2000
+* B.E. in Management Information Systems, Tsinghua University, 1998
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Associate Professor & 3M Fellow in Business Analytics, University of Minnesota, 2017 - present 
+* Associate Professor, University of Minnesota,  2014 - 2016
+* Alan F. and Irene Bloomfield Associate Professor, University of Kentucky,   2013 - 2014  
+* Associate Professor, University of Kentucky,  2013 - 2014  
+* Assistant Professor, University of Kentucky,  2004 - 2010  
+* Assistant Instructor, University of Texas at Austin,  2004 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
