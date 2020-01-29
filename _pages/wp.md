@@ -31,7 +31,7 @@ author_profile: true
    </li>
 </ul>
 
-### User-generated Content
+### User-Generated Content
 
 <ul>
    <li>
@@ -42,12 +42,12 @@ author_profile: true
       <i>Working paper</i></p>
       
    </li>
-   <li>
+<!--    <li>
       <p style="display: inline;">Yumei He, Xunhua Guo, De Liu, and Guoqing Chen. Just Enjoy it! The Effect of Model Attractiveness in Online Review Helpfulness. <i>Working paper</i></p>
-   </li>
-   <li>
+   </li> -->
+<!--    <li>
       <p style="display: inline;">Juan Ling, Raina Brands, Dan Brass, De Liu, Steve Borgatti, and Ajay Mehra. Gender, Structural Hules, and Legitimacy: The Production of Useful Knowledge in Elite Management Journals (1970- 2006). <i>Working paper</i></p>
-   </li>
+   </li> -->
 </ul>
 
 ### Crowdfunding / Crowdsourcing
@@ -62,10 +62,10 @@ author_profile: true
    </li>
 </ul>
 
-### Augmented Intelligence
+<!-- ### Augmented Intelligence
 
 <ul>
    <li>
       <p style="display: inline;">Yiting Guo, Yilin Li, De Liu, and Xin (Sean) Xu. Augmented Intelligence for Call Center Quality Management: An Automatic Customer Emotion Recognition Approach. <i>Working Paper</i></p>
    </li>
-</ul>
+</ul> -->

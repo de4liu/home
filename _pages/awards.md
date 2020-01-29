@@ -7,6 +7,7 @@ author_profile: true
 
 ---
 
+- **Carlson School Service Award**, 2019           
 - **AHRQ Step Up App Challenge Grand Prize**, $40,000 (PRISM: PROMIS Reporting Insight System from Minnesota), 2019           
 - **3M Fellow in Business Analytics**, 2017 - present      
 - **Best Paper Nomination**, Workshop on Information Technologies and Systems, 2015           
