@@ -9,6 +9,7 @@ author_profile: true
 ## Journal Publications
 
 <ol>
+   <li>Liang Chen, Pei Xu, and De Liu. The Effect of Crowd Voting on Participation in Crowdsourcing Contests. Accepted at <strong>Journal of Management Inforamtion Systems</strong>, 2020. <a href="/home/files/CrowdVoting.pdf" rel="nofollow">PDF</a></li>     
    <li>Juneyoung Park, De Liu, Mun Y. Yi, and Radhika Santhanam. GAMESIT: A Gamified System for Information Technology Training. Forthcoming in <strong>Computers & Education</strong>, 2019. <a href="/home/files/GAMESIT_GE19.pdf" rel="nofollow">PDF</a></li>
    <li>Zhihong Ke, De Liu, Alok Gupta, and Dan Brass. Assimilate or Differentiate? Experimental Evidence on Where Users Choose to Contribute in User-Generated Content. Forthcoming in <strong>Decision Sciences</strong>, 2019. <a href="/home/files/KeFriendExpDS.pdf" rel="nofollow">PDF</a>, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3417261" rel="nofollow">SSRN</a></li>
    <li>De Liu, Adib Bagh. New Privacy-Preserving Ascending Auction for Assignment Problems (2019). Accepted at <span style="font-weight:bold">Management Science</span>. <a href="http://idsdl.csom.umn.edu/c/share/LiuBaghDAC.pdf" rel="nofollow">PDF</a>, <a href="https://papers.ssrn.com/abstract=2373976" rel="nofollow">SSRN</a></li>

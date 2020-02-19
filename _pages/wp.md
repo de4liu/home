@@ -52,14 +52,11 @@ author_profile: true
 
 ### Crowdfunding / Crowdsourcing
 
-
 <ul>
    <li>
       <p style="display: inline;">Jason Chan, De Liu, Zihong Huang, and Zhigang Cai. Better to Give than to Receive? Impact of Donation Option on Reward-based Crowdfunding Campaigns. <i>Under 2nd Round Review at Information Systems Research</i></p>
    </li>
-   <li>
-      <p style="display: inline;">Liang Chen, Pei Xu, and De Liu. The Effect of Crowd Voting on Participation in Crowdsourcing Contests. <i>Revising for 3rd Round Review at Journal of Management Inforamtion Systems</i></p>
-   </li>
+
 </ul>
 
 <!-- ### Augmented Intelligence
