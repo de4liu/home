@@ -20,7 +20,7 @@ Dr. De Liu is an Associate professor of Information and Decision Sciences and 3M
 
 ## Research Interests
 
-- Economics of Internet Auctions and Contests
 - Gamification in Digital Health and Learning
+- Crowdfunding and Crowdsourcing
+- Economics of Internet Auctions and Contests
 - Social Media and Social Commerce
-- Crowdfunding and Internet Finance
