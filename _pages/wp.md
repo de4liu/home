@@ -24,7 +24,7 @@ author_profile: true
 
 <ul>
    <li>
-      <p style="display: inline;">Yash Babar, Shawn P. Curley, Zhihong Ke, De Liu, and Zachary J. Sheffler. The Effects of Digi- tally Delivered Nudges in a Corporate Wellness Program. <i>Under review</i></p>
+      <p style="display: inline;">Yash Babar, Shawn P. Curley, Zhihong Ke, De Liu, and Zachary J. Sheffler. The Effects of Digitally Delivered Nudges in a Corporate Wellness Program. <i>Under revision</i></p>
    </li>
    <li>
       <p style="display: inline;">Zach Sheffler, De Liu, and Shawn P Curley. Harnessing Social Motives through Badge Design: Evidence from a Field Experiment with a Bike Commuting Program. <i>Under Revision</i></p>
@@ -35,7 +35,7 @@ author_profile: true
 
 <ul>
    <li>
-      <p style="display: inline;">Zhihong Ke, De Liu, and Daniel Brass. Do Online Friends Bring Out the Best in Us? The Effect of Friend Contributions on Online Review Provision. <i>Under Revision</i></p>
+      <p style="display: inline;">Zhihong Ke, De Liu, and Daniel Brass. Do Online Friends Bring Out the Best in Us? The Effect of Friend Contributions on Online Review Provision. <i>Conditionally Accepted at Information Systems Researchs</i></p>
    </li>
    <li>
       <p style="display: inline;">Zhihong Ke, Liu De, Alok Gupta, and Rui Huaxia. The Ebb and Flow of Online Word of Mouth.
