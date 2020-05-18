@@ -34,9 +34,7 @@ author_profile: true
 ### User-Generated Content
 
 <ul>
-   <li>
-      <p style="display: inline;">Zhihong Ke, De Liu, and Daniel Brass. Do Online Friends Bring Out the Best in Us? The Effect of Friend Contributions on Online Review Provision. <i>Conditionally Accepted at Information Systems Research</i></p>
-   </li>
+
    <li>
       <p style="display: inline;">Zhihong Ke, Liu De, Alok Gupta, and Rui Huaxia. The Ebb and Flow of Online Word of Mouth.
       <i>Working paper</i></p>
