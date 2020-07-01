@@ -18,6 +18,7 @@ Education
 
 Work Experience
 ======
+* Professor & Xian Dong Eric Jing Professorship in Business Teaching, University of Minnesota, 2017 - 2020 
 * Associate Professor & 3M Fellow in Business Analytics, University of Minnesota, 2017 - present 
 * Associate Professor, University of Minnesota,  2014 - 2016
 * Alan F. and Irene Bloomfield Associate Professor, University of Kentucky,   2013 - 2014  
