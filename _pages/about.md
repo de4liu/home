@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 Professor, Information and Decision Sciences
-Xian Dong Eric Jing Professor for Business Teaching 
+Xian Dong Eric Jing Professorship for Business Teaching 
 Academic Director, [Master of Science in Business Analytics](https://carlsonschool.umn.edu/degrees/master-science-in-business-analytics)  
 [Department of Information and Decision Sciences](https://carlsonschool.umn.edu/departments/information-decision-sciences-department)  
 [Carlson School of Management](http://carlsonschool.umn.edu/)   
