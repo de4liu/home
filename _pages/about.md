@@ -17,10 +17,11 @@ Academic Director, [Master of Science in Business Analytics](https://carlsonscho
 [Carlson School of Management](http://carlsonschool.umn.edu/)   
 [University of Minnesota](https://twin-cities.umn.edu/)  
 
-Dr. De Liu is an Associate professor of Information and Decision Sciences and 3M Fellow in Business Analytics at the Carlson School of Management, University of Minnesota. His research interests include mechanism design issues in digital auctions, gamification, crowdsourcing, crowdfunding, and social commerce. He currently serves as an associate editor for Information Systems Research and Journal of Organizational Computing and Electronic Commerce and the academic director for MS in Business Analytics (MSBA) program at the Carlson School.
+Dr. De Liu is a Xian Dong Eric Jing Professor of Information and Decision Sciences at the Carlson School of Management, University of Minnesota. His research interests include mechanism design issues in digital auctions, gamification, crowdsourcing, crowdfunding, and social commerce. He currently serves as an associate editor for Information Systems Research and Journal of Organizational Computing and Electronic Commerce and the academic director for MS in Business Analytics (MSBA) program at the Carlson School.
 
 ## Research Interests
 
+- AI and Augmented Intelligence
 - Gamification in Digital Health and Learning
 - Crowdfunding and Crowdsourcing
 - Economics of Internet Auctions and Contests
