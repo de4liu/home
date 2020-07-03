@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Awards & Recognition"  
 permalink: /awards/
 author_profile: true
