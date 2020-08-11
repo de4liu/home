@@ -19,9 +19,6 @@ author_profile: true
    <li>
       <p style="display: inline;">Yash Babar, Shawn P. Curley, Zhihong Ke, De Liu, and Zachary J. Sheffler. The Effects of Digitally Delivered Nudges in a Corporate Wellness Program. <i>Under revision</i></p>
    </li>
-   <li>
-      <p style="display: inline;">Zach Sheffler, De Liu, and Shawn P Curley. Harnessing Social Motives through Badge Design: Evidence from a Field Experiment with a Bike Commuting Program. <i>Under Revision</i></p>
-   </li>
 </ul>
 
 ### Auctions and Mechanism Design
@@ -34,7 +31,6 @@ author_profile: true
    <li>
       <p style="display: inline;">He Huang, De Liu, Yu Tang, and Hongyan Xu. Competing in the Era of Supply Chain Transparency: A Tale of Information Disclosure and Supplier Switching. <i>Working paper</i></p>
    </li>
-
 </ul>
 
 ### User-Generated Content

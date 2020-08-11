@@ -9,6 +9,7 @@ author_profile: true
 ## Journal Publications
 
 <ol>
+   <li>Zach Sheffler, De Liu, and Shawn P Curley. Ingredients for Successful Badges: Evidence from a Field Experiment in Bike Commuting (2020). Forthcoming in <strong>European Journal of Information Systems</strong>. <a href="/home/files/zap.pdf">PDF</a></li>
    <li>Zhihong Ke, De Liu, and Daniel Brass. Do Online Friends Bring Out the Best in Us? The Effect of Friend Contributions on Online Review Provision (2020). Accepted in <strong>Information Systems Research</strong>. <a href="/home/files/friendEffect.pdf">PDF</a></li>
    <li>Liang Chen, Pei Xu, and De Liu. The Effect of Crowd Voting on Participation in Crowdsourcing Contests (2020). <strong>Journal of Management Inforamtion Systems</strong>, 37 (2), 510-535. <a href="/home/files/ChenXuLiu-CrowdVoting.pdf">PDF</a></li>     
    <li>Juneyoung Park, De Liu, Mun Y. Yi, and Radhika Santhanam. GAMESIT: A Gamified System for Information Technology Training (2019). <strong>Computers & Education</strong>, 142 (December). <a href="/home/files/GAMESIT_GE19.pdf">PDF</a></li>
