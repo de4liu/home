@@ -38,10 +38,17 @@ author_profile: true
 <ul>
 
    <li>
+      <p style="display: inline;">Zhihong Ke, Liu De, 
+Gediminas Adomavicius. Towards a Measure of Online Review Quality.
+      <i>Under review</i></p>
+      
+   </li>
+   <li>
       <p style="display: inline;">Zhihong Ke, Liu De, Alok Gupta, and Rui Huaxia. The Ebb and Flow of Online Word of Mouth.
       <i>Working paper</i></p>
       
    </li>
+
 <!--    <li>
       <p style="display: inline;">Yumei He, Xunhua Guo, De Liu, and Guoqing Chen. Just Enjoy it! The Effect of Model Attractiveness in Online Review Helpfulness. <i>Working paper</i></p>
    </li> -->
