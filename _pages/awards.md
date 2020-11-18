@@ -7,10 +7,11 @@ author_profile: true
 {% include base_path %}
 
 ---
-
+- **Carlson School Research Award**, 2020   
+- **Xian Dong Eric Jing Professorship**, 2020 
 - **Carlson School Service Award**, 2019           
 - **AHRQ Step Up App Challenge Grand Prize**, $40,000 (PRISM: PROMIS Reporting Insight System from Minnesota), 2019           
-- **3M Fellow in Business Analytics**, 2017 - present      
+- **3M Fellow in Business Analytics**, 2017 - 2020      
 - **Best Paper Nomination**, Workshop on Information Technologies and Systems, 2015           
 - **Teacher of the Year**, Master of Science in Business Analytics, 2015-2016           
 - **Teacher of the Year**, Master of Science in Business Analytics, 2014-2015           

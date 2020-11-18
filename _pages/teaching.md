@@ -7,11 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-- (2019 Summer) <a href="http://idsdl.csom.umn.edu/c/bigdata19/" rel="nofollow" target='_blank'>MSBA 6330: Harvesting Big Data (Part-time, Online) </a></li>	
-- (2018 Fall) <a href="http://idsdl.csom.umn.edu/c/bigdata18/" rel="nofollow"  target='_blank'>MSBA 6330: Harvesting Big Data</a>
-- (2018 Fall) MSBA 3103: Database Modeling and Database
-- (2017 Spring) IDSC 8541: Introduction to Economics of Information Systems, PhD Seminar.
-
+- (2020 Summer) <a href="https://pages.github.umn.edu/deliu/bigdata20/" rel="nofollow" target='_blank'>MSBA 6330: Harvesting Big Data (Part-time, Online) </a>
+- (2020 Spring) <a href="https://pages.github.umn.edu/deliu/econis20/" rel="nofollow" target='_blank'>IDSC 8541: Introduction to Economics of Information Systems, PhD Seminar.</a>
 
 ## Doctoral Students
 

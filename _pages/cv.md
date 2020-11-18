@@ -12,14 +12,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Management Sci and Info Systems, University of Texas at Austin, 2004 
+* Ph.D. in Management Science and Info Systems, University of Texas at Austin, 2004 
 * M.S. in Management Science and Engineering, Tsinghua University, 2000
 * B.E. in Management Information Systems, Tsinghua University, 1998
 
 Work Experience
 ======
-* Professor & Xian Dong Eric Jing Professorship in Business Teaching, University of Minnesota, 2017 - 2020 
-* Associate Professor & 3M Fellow in Business Analytics, University of Minnesota, 2017 - present 
+* Professor & Xian Dong Eric Jing Professorship in Business Teaching, University of Minnesota, 2020 - present 
+* Associate Professor & 3M Fellow in Business Analytics, University of Minnesota, 2017 - 2020 
 * Associate Professor, University of Minnesota,  2014 - 2016
 * Alan F. and Irene Bloomfield Associate Professor, University of Kentucky,   2013 - 2014  
 * Associate Professor, University of Kentucky,  2013 - 2014  

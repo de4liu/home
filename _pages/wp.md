@@ -7,6 +7,19 @@ author_profile: true
 
 ### AI and Augmented Intelligence
 
+<!-- 
+“Ephemeral Sharing in Online Dating: A Randomized Field Experiment”
+
+ 
+
+has been accepted as a Parallel Presentation (12-minute talk). We are still working on the sessions and agenda with the virtual format and will let you know soon which date and session your presentation will be in – for now, please save the date for both Nov. 19 and 20th.  Please share this information with your co-authors.
+
+ 
+
+To confirm your paper’s place on the program, please ensure the following important dates are noted in your calendar:
+
+  -->
+
 <ul>
    <li>
       <p style="display: inline;">Pei Xu, Yiting Guo, De Liu. Does Augmented Reality Aid Product Sales? Evidence from a Natural Experiment. <i>Under Review</i></p>
@@ -43,11 +56,11 @@ Gediminas Adomavicius. Towards a Measure of Online Review Quality.
       <i>Under review</i></p>
       
    </li>
-   <li>
+<!--    <li>
       <p style="display: inline;">Zhihong Ke, Liu De, Alok Gupta, and Rui Huaxia. The Ebb and Flow of Online Word of Mouth.
       <i>Working paper</i></p>
       
-   </li>
+   </li> -->
 
 <!--    <li>
       <p style="display: inline;">Yumei He, Xunhua Guo, De Liu, and Guoqing Chen. Just Enjoy it! The Effect of Model Attractiveness in Online Review Helpfulness. <i>Working paper</i></p>
