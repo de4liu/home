@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Management Science and Info Systems, University of Texas at Austin, 2004 
+* Ph.D. in Management Sci and Info Systems, University of Texas at Austin, 2004 
 * M.S. in Management Science and Engineering, Tsinghua University, 2000
 * B.E. in Management Information Systems, Tsinghua University, 1998
 

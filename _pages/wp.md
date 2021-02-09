@@ -32,6 +32,9 @@ To confirm your paper’s place on the program, please ensure the following impo
    <li>
       <p style="display: inline;">Yash Babar, Shawn P. Curley, Zhihong Ke, De Liu, and Zachary J. Sheffler. The Effects of Digitally Delivered Nudges in a Corporate Wellness Program. <i>Under revision</i></p>
    </li>
+   <li>
+       <p style="display: inline;">Should E-Learning be Interleaved? Theory and Evidence from a Field Experiment (with Tao Li, Sean Xu, <i>Under review</i></p>
+   </li>
 </ul>
 
 ### Auctions and Mechanism Design
