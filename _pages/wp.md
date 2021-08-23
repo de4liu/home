@@ -22,6 +22,12 @@ To confirm your paper’s place on the program, please ensure the following impo
 
 <ul>
    <li>
+      <p style="display: inline;">Yumei He, Xincheng Xu, Ni Huang, Yili Hong, De Liu. Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context. <i>Under Review</i></p>
+   </li>
+</ul>
+
+<ul>
+   <li>
       <p style="display: inline;">Pei Xu, Yiting Guo, De Liu. Does Augmented Reality Aid Product Sales? Evidence from a Natural Experiment. <i>Under Review</i></p>
    </li>
 </ul>
@@ -33,16 +39,18 @@ To confirm your paper’s place on the program, please ensure the following impo
       <p style="display: inline;">Yash Babar, Shawn P. Curley, Zhihong Ke, De Liu, and Zachary J. Sheffler. The Effects of Digitally Delivered Nudges in a Corporate Wellness Program. <i>Under revision</i></p>
    </li>
    <li>
-       <p style="display: inline;">Should E-Learning be Interleaved? Theory and Evidence from a Field Experiment (with Tao Li, Sean Xu, <i>Under review</i></p>
+       <p style="display: inline;">Should E-Learning be Interleaved? Theory and Evidence from a Field Experiment (with Tao Li, Sean Xu) <i>Under review</i></p>
+   </li>
+   <li>
+      <p style="display: inline;"> Re-engage Low Achievers: Effect of Meaningful Tangible Rewards in Gamified Online Learning (with Tao Li, Sean Xu) <i>working paper</i></p>
+   
    </li>
 </ul>
 
 ### Auctions and Mechanism Design
 
 <ul>
-   <li>
-      <p style="display: inline;">He Huang, Zhipeng Li, De Liu, and Hongyan Xu. Auctioning IT Service Contracts. <i>Under Revision</i></p>
-   </li>
+
 
    <li>
       <p style="display: inline;">He Huang, De Liu, Yu Tang, and Hongyan Xu. Competing in the Era of Supply Chain Transparency: A Tale of Information Disclosure and Supplier Switching. <i>Working paper</i></p>
@@ -54,16 +62,15 @@ To confirm your paper’s place on the program, please ensure the following impo
 <ul>
 
    <li>
-      <p style="display: inline;">Zhihong Ke, Liu De, 
+      <p style="display: inline;">Zhihong Ke, De Liu, 
 Gediminas Adomavicius. Towards a Measure of Online Review Quality.
       <i>Under review</i></p>
       
    </li>
-<!--    <li>
-      <p style="display: inline;">Zhihong Ke, Liu De, Alok Gupta, and Rui Huaxia. The Ebb and Flow of Online Word of Mouth.
-      <i>Working paper</i></p>
+      <li>
+      <p style="display: inline;">Zhihong Ke,  Rui Huaxia, Alok Gupta, and De Liu. Rating Manipulation and Detection.  <i>Under Review</i></p>
       
-   </li> -->
+   </li>
 
 <!--    <li>
       <p style="display: inline;">Yumei He, Xunhua Guo, De Liu, and Guoqing Chen. Just Enjoy it! The Effect of Model Attractiveness in Online Review Helpfulness. <i>Working paper</i></p>
@@ -77,7 +84,7 @@ Gediminas Adomavicius. Towards a Measure of Online Review Quality.
 
 <ul>
    <li>
-      <p style="display: inline;">Jason Chan, De Liu, Zihong Huang, and Zhigang Cai. Better to Give than to Receive? Impact of Donation Option on Reward-based Crowdfunding Campaigns. <i>Under Revision</i></p>
+      <p style="display: inline;">Jason Chan, De Liu, Zihong Huang, and Zhigang Cai. Better to Give than to Receive? Impact of the Donation Option on Reward-based Crowdfunding Campaigns. <i>Under Revision</i></p>
    </li>
 
 </ul>

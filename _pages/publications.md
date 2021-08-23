@@ -9,7 +9,9 @@ author_profile: true
 ## Journal Publications
 
 <ol>
-   <li>Zach Sheffler, De Liu, and Shawn P Curley. Ingredients for Successful Badges: Evidence from a Field Experiment in Bike Commuting (2020). <strong>European Journal of Information Systems</strong>, 29 (6), 688-703 <a href="/home/files/badges.pdf">PDF</a></li>
+   <li>He Huang, Zhipeng Li, De Liu, and Hongyan Xu. Auctioning IT Service Contracts (2021). Accepted at <strong>Management Science</strong>
+   <a href="http://idsdl.csom.umn.edu/c/share/ito.pdf">PDF</a>, <a href=" https://ssrn.com/abstract=3910016">SSRN</a></li>
+     <li>Zach Sheffler, De Liu, and Shawn P Curley. Ingredients for Successful Badges: Evidence from a Field Experiment in Bike Commuting (2020). <strong>European Journal of Information Systems</strong>, 29 (6), 688-703 <a href="/home/files/badges.pdf">PDF</a></li>
    <li>Zhihong Ke, De Liu, and Daniel Brass. Do Online Friends Bring Out the Best in Us? The Effect of Friend Contributions on Online Review Provision (2020). <strong>Information Systems Research</strong>, 30 (4), 1322-1336. <a href="/home/files/friendEffect.pdf">PDF</a></li>
    <li>Liang Chen, Pei Xu, and De Liu. The Effect of Crowd Voting on Participation in Crowdsourcing Contests (2020). <strong>Journal of Management Information Systems</strong>, 37 (2), 510-535. <a href="/home/files/ChenXuLiu-CrowdVoting.pdf">PDF</a></li>     
    <li>Juneyoung Park, De Liu, Mun Y. Yi, and Radhika Santhanam. GAMESIT: A Gamified System for Information Technology Training (2019). <strong>Computers & Education</strong>, 142 (December). <a href="/home/files/GAMESIT_GE19.pdf">PDF</a></li>

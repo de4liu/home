@@ -7,6 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ---
+- **Master of Applied Business Analytics (MABA), Teaching of the Year Award**, 2021   
 - **Carlson School Research Award**, 2020   
 - **Xian Dong Eric Jing Professorship**, 2020 
 - **Carlson School Service Award**, 2019           
