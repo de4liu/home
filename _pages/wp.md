@@ -24,11 +24,9 @@ To confirm your paper’s place on the program, please ensure the following impo
    <li>
       <p style="display: inline;">Yumei He, Xincheng Xu, Ni Huang, Yili Hong, De Liu. Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context. <i>Under Review</i></p>
    </li>
-</ul>
    <li>
       <p style="display: inline;">Guo, Yiting; Liu, De; Xu, Sean Xin; Yin, Ximing. Is This Bot A Her? Field Evidence Of Ai Chatbot Gender Effect In Debt Collection. <i>Under Review</i></p>
    </li>
-<ul>
    <li>
       <p style="display: inline;">Pei Xu, Yiting Guo, De Liu. Does Augmented Reality Aid Product Sales? Evidence from a Natural Experiment. <i>Under Review</i></p>
    </li>
@@ -73,7 +71,7 @@ To confirm your paper’s place on the program, please ensure the following impo
       <p style="display: inline;">Zhihong Ke, De Liu, Dan Brass. Behavioral Influence in Online User-Generated Content Communities: The Moderating Roles of Status and Tenure.  <i>Under review</i></p>
       
    </li>
-      <li>
+   <li>
       <p style="display: inline;">Zhihong Ke,  Rui Huaxia, Alok Gupta, and De Liu. Rating Manipulation and Detection.  <i>Under Review</i></p>
       
    </li>
