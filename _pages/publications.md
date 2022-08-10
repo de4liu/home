@@ -9,6 +9,14 @@ author_profile: true
 ## Journal Publications
 
 <ol>
+   <li>
+   Dongyu Chen, Chengchen Huang, De Liu, Fujun Lai. The Role of Expertise in Herding Behaviors: Evidence from a Crowdfunding Market (2022). Accepted at <strong>Electronic Commerce Research</strong> 
+   </li>
+
+   <li>
+      Yash Babar, Shawn P. Curley, Zhihong Ke, De Liu, and Zachary J. Sheffler. The Effects of Digitally Delivered Nudges in a Corporate Wellness Program (2022). Accepted at <strong>Journal of the Association for Information Systems revision</strong>  <a href="/home/files/nudge.pdf">PDF</a>
+   </li>
+
    <li>He Huang, Zhipeng Li, De Liu, and Hongyan Xu. Auctioning IT Contracts with Renegotiable Scope (2021). Accepted at <strong>Management Science</strong>
    <a href="http://idsdl.csom.umn.edu/c/share/ito.pdf">PDF</a>, <a href=" https://ssrn.com/abstract=3910016">SSRN</a></li>
      <li>Zach Sheffler, De Liu, and Shawn P Curley. Ingredients for Successful Badges: Evidence from a Field Experiment in Bike Commuting (2020). <strong>European Journal of Information Systems</strong>, 29 (6), 688-703 <a href="/home/files/badges.pdf">PDF</a></li>
