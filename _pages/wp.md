@@ -47,7 +47,7 @@ To confirm your paper’s place on the program, please ensure the following impo
    </li>
 </ul>
 
-### Auctions and Mechanism Design
+### Economics of Internet Auctions and Mechanisms
 
 <ul>
 
