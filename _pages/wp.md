@@ -88,7 +88,7 @@ To confirm your paper’s place on the program, please ensure the following impo
 
 <ul>
    <li>
-      <p style="display: inline;">Jason Chan, De Liu, Zihong Huang, and Zhigang Cai. Better to Give than to Receive? Impact of the Donation Option on Reward-based Crowdfunding Campaigns. <i>Under Revision</i></p>
+      <p style="display: inline;">Jason Chan, Zihong Huang, De Liu, and Zhigang Cai. Better to Give than to Receive? Impact of the Donation Option on Reward-based Crowdfunding Campaigns. <i>Conditionally Accepted at Information Systems Research</i></p>
    </li>
 
 </ul>
