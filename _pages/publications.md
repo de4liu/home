@@ -10,11 +10,11 @@ author_profile: true
 
 <ol>
    <li>
-   Dongyu Chen, Chengchen Huang, De Liu, Fujun Lai. The Role of Expertise in Herding Behaviors: Evidence from a Crowdfunding Market (2022). Accepted at <strong>Electronic Commerce Research</strong> 
+   Dongyu Chen, Chengchen Huang, De Liu, Fujun Lai. The Role of Expertise in Herding Behaviors: Evidence from a Crowdfunding Market (2022). Accepted at <strong>Electronic Commerce Research</strong>  <a href="/home/files/expertise.pdf">PDF</a>
    </li>
 
    <li>
-      Yash Babar, Shawn P. Curley, Zhihong Ke, De Liu, and Zachary J. Sheffler. The Effects of Digitally Delivered Nudges in a Corporate Wellness Program (2022). Accepted at <strong>Journal of the Association for Information Systems revision</strong>  <a href="/home/files/nudge.pdf">PDF</a>
+      Yash Babar, Shawn P. Curley, Zhihong Ke, De Liu, and Zachary J. Sheffler. The Effects of Digitally Delivered Nudges in a Corporate Wellness Program (2022). Accepted at <strong>Journal of the Association for Information Systems</strong>  <a href="/home/files/nudge.pdf">PDF</a>
    </li>
 
    <li>He Huang, Zhipeng Li, De Liu, and Hongyan Xu. Auctioning IT Contracts with Renegotiable Scope (2021). Accepted at <strong>Management Science</strong>
