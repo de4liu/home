@@ -7,10 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-- (2020 Summer) <a href="https://pages.github.umn.edu/deliu/bigdata20/" rel="nofollow" target='_blank'>MSBA 6330: Harvesting Big Data (Part-time, Online) </a>
-- (2020 Spring) <a href="https://pages.github.umn.edu/deliu/econis20/" rel="nofollow" target='_blank'>IDSC 8541: Introduction to Economics of Information Systems, PhD Seminar.</a>
+- MSBA 6331: Big Data Analytics
+- IDSC 8541: Introduction to Economics of Information Systems, PhD Seminar.
+- IDSC 4444: Descriptive and Predictive Analytics.
 
 ## Doctoral Students
 
-- Zhihong Ke, Advisor (Clemson University, 2019)
-- Pei Xu, Advisor (Auburn University, 2014)
+- Ramin Zandvakili
+- Zhihong Huang, Advisor (placement: Texas Tech University, 2023)
+- Zhihong Ke, Advisor (placement: Clemson University, 2019)
+- Pei Xu, Advisor (placement: Auburn University, 2014)
