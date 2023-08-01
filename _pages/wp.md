@@ -21,8 +21,12 @@ To confirm your paper’s place on the program, please ensure the following impo
   -->
 
 <ul>
+
+ <li> Lingli Wang, Yumei He, Ni Huang, De Liu, Xunhua Guo, Yan Sun, Guoqing Chen. The Role of AI Assistants in Livestream Selling: Evidence from A Randomized Field Experiment. <i>Under review</i></p>
+ </li>
+
    <li>
-      <p style="display: inline;">Yumei He, Xincheng Xu, Ni Huang, Yili Hong, De Liu. Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context. <i>Under Review</i></p>
+      <p style="display: inline;">Yumei He, Xincheng Xu, Ni Huang, Yili Hong, De Liu. Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context. <i>Conditionally accepted at Information Systems Research</i></p>
    </li>
    <li>
       <p style="display: inline;">Guo, Yiting; Liu, De; Xu, Sean Xin; Yin, Ximing. Is This Bot A Her? Field Evidence Of Ai Chatbot Gender Effect In Debt Collection. <i>Under Review</i></p>
@@ -35,6 +39,10 @@ To confirm your paper’s place on the program, please ensure the following impo
 ### Gamification
 
 <ul>
+   <li>
+       <p style="display: inline;">Bragging on Digital Platforms to Enhance Player Engagement: Insights from a Mobile Game
+ (with Jingzhao An, Radhika Santhanam, Xi Zhao) <i>Under revision</i></p>
+   </li>
    <li>
        <p style="display: inline;">Examining Microtasking Design for Self-Improvement Apps Through a Present Bias Lens (with Yi Gao, Hong Guo, Dengpan Liu, and Xuying Zhao) <i>Under review</i></p>
    </li>
@@ -84,14 +92,11 @@ To confirm your paper’s place on the program, please ensure the following impo
    </li> -->
 </ul>
 
-### Crowdfunding / Crowdsourcing
+<!-- ### Crowdfunding / Crowdsourcing -->
 
-<ul>
-   <li>
-      <p style="display: inline;">Jason Chan, Zihong Huang, De Liu, and Zhigang Cai. Better to Give than to Receive? Impact of the Donation Option on Reward-based Crowdfunding Campaigns. <i>Conditionally Accepted at Information Systems Research</i></p>
-   </li>
+<!-- <ul>
 
-</ul>
+</ul> -->
 
 <!-- 
 <ul>
