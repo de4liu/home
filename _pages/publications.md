@@ -13,7 +13,7 @@ author_profile: true
       Yiting Guo, Yilin Li, De Liu, Sean Xin Xu. Measuring service quality based on customer emotion: An explainable AI approach (2023). <strong>Decision Support Systems</strong> (In Press) <a href="/home/files/servq.pdf">PDF</a>.  
    </li>
    <li>
-      Jason Chan, Zihong Huang, De Liu, and Zhigang Cai. Better to Give than to Receive? Impact of the Donation Option on Reward-based Crowdfunding Campaigns (2023). Accepted at  <strong>JInformation Systems Research</strong>. <a href="/home/files/zhongchou.pdf">PDF</a>
+      Jason Chan, Zihong Huang, De Liu, and Zhigang Cai. Better to Give than to Receive? Impact of the Donation Option on Reward-based Crowdfunding Campaigns (2023). <strong>Information Systems Research</strong> (In Press). <a href="/home/files/zhongchou.pdf">PDF</a>
    </li>
    <li>
    Dongyu Chen, Chengchen Huang, De Liu, Fujun Lai. The Role of Expertise in Herding Behaviors: Evidence from a Crowdfunding Market (2022). <strong>Electronic Commerce Research</strong>  <a href="/home/files/expertise.pdf">PDF</a> DOI: 10.1007/s10660-022-09570-8
