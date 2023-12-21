@@ -47,9 +47,6 @@ To confirm your paper’s place on the program, please ensure the following impo
        <p style="display: inline;">Examining Microtasking Design for Self-Improvement Apps Through a Present Bias Lens (with Yi Gao, Hong Guo, Dengpan Liu, and Xuying Zhao) <i>Under review</i></p>
    </li>
    <li>
-       <p style="display: inline;">Should E-Learning be Interleaved? Theory and Evidence from a Field Experiment (with Tao Li, Sean Xu) <i>Under review</i></p>
-   </li>
-   <li>
       <p style="display: inline;">Re-engage Low Achievers: Effect of Meaningful Tangible Rewards in Gamified Online Learning (with Tao Li, Sean Xu) <i>working paper</i></p>
    
    </li>
