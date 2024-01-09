@@ -10,6 +10,10 @@ author_profile: true
 
 <ol>
    <li>
+      Yumei He, Xincheng Xu, Ni Huang, Yili Hong, De Liu. Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context (2024). Accepted at <strong>Information Systems Research</strong>
+      <!-- <a href="/home/files/ephemeral.pdf">PDF</a> -->
+   </li>
+   <li>
       Li, Tao, Sean Xu, De Liu, and Yufang Wang. Interleaved Design for E-Learning: Theory, Design, and Empirical Findings (2023). Accepted at <strong>MIS Quarterly</strong> <a href="/home/files/interleaving.pdf">PDF</a>
    </li>
    <li>

@@ -26,9 +26,6 @@ To confirm your paper’s place on the program, please ensure the following impo
  </li>
 
    <li>
-      <p style="display: inline;">Yumei He, Xincheng Xu, Ni Huang, Yili Hong, De Liu. Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context. <i>Conditionally accepted at Information Systems Research</i></p>
-   </li>
-   <li>
       <p style="display: inline;">Guo, Yiting; Liu, De; Xu, Sean Xin; Yin, Ximing. Is This Bot A Her? Field Evidence Of Ai Chatbot Gender Effect In Debt Collection. <i>Under Review</i></p>
    </li>
    <li>
