@@ -9,26 +9,12 @@ author_profile: true
 ## Journal Publications
 
 <ol>
-   <li>
-      Yumei He, Xincheng Xu, Ni Huang, Yili Hong, De Liu. Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context (2024). Accepted at <strong>Information Systems Research</strong>
-      <a href="/home/files/ephemeral.pdf">PDF</a>
-   </li>
-   <li>
-      Li, Tao, Sean Xu, De Liu, and Yufang Wang. Interleaved Design for E-Learning: Theory, Design, and Empirical Findings (2023). Accepted at <strong>MIS Quarterly</strong> <a href="/home/files/interleaving.pdf">PDF</a>
-   </li>
-   <li>
-      Yiting Guo, Yilin Li, De Liu, Sean Xin Xu. Measuring service quality based on customer emotion: An explainable AI approach (2023). <strong>Decision Support Systems</strong> (In Press) <a href="/home/files/servq.pdf">PDF</a>.  
-   </li>
-   <li>
-      Jason Chan, Zihong Huang, De Liu, and Zhigang Cai. Better to Give than to Receive? Impact of the Donation Option on Reward-based Crowdfunding Campaigns (2023). <strong>Information Systems Research</strong> (In Press). <a href="/home/files/zhongchou.pdf">PDF</a>
-   </li>
-   <li>
-   Dongyu Chen, Chengchen Huang, De Liu, Fujun Lai. The Role of Expertise in Herding Behaviors: Evidence from a Crowdfunding Market (2022). <strong>Electronic Commerce Research</strong>  <a href="/home/files/expertise.pdf">PDF</a> DOI: 10.1007/s10660-022-09570-8
-   </li>
-   <li>
-      Yash Babar, Shawn P. Curley, Zhihong Ke, De Liu, and Zachary J. Sheffler. The Effects of Digitally Delivered Nudges in a Corporate Wellness Program (2023). <strong>Journal of the Association for Information Systems</strong>, 24(1), 136-160  <a href="/home/files/nudge.pdf">PDF</a>
-   </li>
-
+   <li>Yumei He, Xincheng Xu, Ni Huang, Yili Hong, De Liu. Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context (2024). Accepted at <strong>Information Systems Research</strong> <a href="/home/files/ephemeral.pdf">PDF</a></li>
+   <li>Li, Tao, Sean Xu, De Liu, and Yufang Wang. Interleaved Design for E-Learning: Theory, Design, and Empirical Findings (2023). Accepted at <strong>MIS Quarterly</strong> <a href="/home/files/interleaving.pdf">PDF</a></li>
+   <li>Yiting Guo, Yilin Li, De Liu, Sean Xin Xu. Measuring service quality based on customer emotion: An explainable AI approach (2023). <strong>Decision Support Systems</strong> (In Press) <a href="/home/files/servq.pdf">PDF</a></li>
+   <li>Jason Chan, Zihong Huang, De Liu, and Zhigang Cai. Better to Give than to Receive? Impact of the Donation Option on Reward-based Crowdfunding Campaigns (2023). <strong>Information Systems Research</strong> (In Press). <a href="/home/files/zhongchou.pdf">PDF</a></li>
+   <li>Dongyu Chen, Chengchen Huang, De Liu, Fujun Lai. The Role of Expertise in Herding Behaviors: Evidence from a Crowdfunding Market (2022). <strong>Electronic Commerce Research</strong>  <a href="/home/files/expertise.pdf">PDF</a> </li>
+   <li>Yash Babar, Shawn P. Curley, Zhihong Ke, De Liu, and Zachary J. Sheffler. The Effects of Digitally Delivered Nudges in a Corporate Wellness Program (2023). <strong>Journal of the Association for Information Systems</strong>, 24(1), 136-160  <a href="/home/files/nudge.pdf">PDF</a></li>
    <li>He Huang, Zhipeng Li, De Liu, and Hongyan Xu. Auctioning IT Contracts with Renegotiable Scope (2021). Accepted at <strong>Management Science</strong>
    <a href="http://idsdl.csom.umn.edu/c/share/ito.pdf">PDF</a>, <a href=" https://ssrn.com/abstract=3910016">SSRN</a></li>
      <li>Zach Sheffler, De Liu, and Shawn P Curley. Ingredients for Successful Badges: Evidence from a Field Experiment in Bike Commuting (2020). <strong>European Journal of Information Systems</strong>, 29 (6), 688-703 <a href="/home/files/badges.pdf">PDF</a></li>
