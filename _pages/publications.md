@@ -9,7 +9,7 @@ author_profile: true
 ## Journal Publications
 
 <ol>
-   <li>Zhihong Ke, De Liu, Dan Brass. Magnify Cascades of eWOM on Social Networks: The Roles of User, Product, and Relationship Characteristics (2024).  Accepted at <strong>Productions and Operations Management</strong>. <a href="/home/files/cascades.pdf">PDF</a></li>
+   <li>Zhihong Ke, De Liu, Dan Brass. Magnify Cascades of eWOM on Social Networks: The Roles of User, Product, and Relationship Characteristics (2024).  Accepted at <strong>Production and Operations Management</strong>. <a href="/home/files/cascades.pdf">PDF</a></li>
    <li>Yumei He, Xincheng Xu, Ni Huang, Yili Hong, De Liu. Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context (2024). Accepted at <strong>Information Systems Research</strong> <a href="/home/files/ephemeral.pdf">PDF</a></li>
    <li>Li, Tao, Sean Xu, De Liu, and Yufang Wang. Interleaved Design for E-Learning: Theory, Design, and Empirical Findings (2023). Accepted at <strong>MIS Quarterly</strong> <a href="/home/files/interleaving.pdf">PDF</a></li>
    <li>Yiting Guo, Yilin Li, De Liu, Sean Xin Xu. Measuring service quality based on customer emotion: An explainable AI approach (2023). <strong>Decision Support Systems</strong> (In Press) <a href="/home/files/servq.pdf">PDF</a></li>
