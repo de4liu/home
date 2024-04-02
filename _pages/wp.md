@@ -5,20 +5,7 @@ permalink: /wp/
 author_profile: true
 ---
 
-### AI and Augmented Intelligence
-
-<!-- 
-“Ephemeral Sharing in Online Dating: A Randomized Field Experiment”
-
- 
-
-has been accepted as a Parallel Presentation (12-minute talk). We are still working on the sessions and agenda with the virtual format and will let you know soon which date and session your presentation will be in – for now, please save the date for both Nov. 19 and 20th.  Please share this information with your co-authors.
-
- 
-
-To confirm your paper’s place on the program, please ensure the following important dates are noted in your calendar:
-
-  -->
+### AI
 
 <ul>
 
@@ -33,7 +20,7 @@ To confirm your paper’s place on the program, please ensure the following impo
    </li>
 </ul>
 
-### Gamification
+### Gamification and Digital Engagement
 
 <ul>
    <li>
@@ -49,18 +36,11 @@ To confirm your paper’s place on the program, please ensure the following impo
    </li>
 </ul>
 
-### Economics of Internet Auctions and Mechanisms
-
-<ul>
-
-
+### Social Media Manipulation
    <li>
-      <p style="display: inline;">He Huang, De Liu, Yu Tang, and Hongyan Xu. Competing in the Era of Supply Chain Transparency: A Tale of Information Disclosure and Supplier Switching. <i>Working paper</i></p>
-   </li>
-   <li>
-      <p style="display: inline;">Zihong Huang, De Liu. Economics of Fake Social Media Accounts. <i>Working paper</i></p>
+      <p style="display: inline;">Zihong Huang, De Liu. Economics of Fake Social Media Fake Accounts. <i>Working paper</i></p>
    </li>   
-</ul>
+
 
 ### User-Generated Content
 
@@ -82,15 +62,19 @@ To confirm your paper’s place on the program, please ensure the following impo
    </li> -->
 </ul>
 
+
+### Economics of Online Platforms
+
+<ul>
+
+   <li>
+      <p style="display: inline;">He Huang, De Liu, Yu Tang, and Hongyan Xu. Competing in the Era of Supply Chain Transparency: A Tale of Information Disclosure and Supplier Switching. <i>Working paper</i></p>
+   </li>
+</ul>
+
 <!-- ### Crowdfunding / Crowdsourcing -->
 
 <!-- <ul>
 
 </ul> -->
 
-<!-- 
-<ul>
-   <li>
-      <p style="display: inline;">Yiting Guo, Yilin Li, De Liu, and Xin (Sean) Xu. Augmented Intelligence for Call Center Quality Management: An Automatic Customer Emotion Recognition Approach. <i>Working Paper</i></p>
-   </li>
-</ul> -->
