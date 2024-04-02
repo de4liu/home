@@ -9,14 +9,13 @@ author_profile: true
 
 <ul>
 
- <li> Lingli Wang, Yumei He, Ni Huang, De Liu, Xunhua Guo, Yan Sun, Guoqing Chen. The Role of AI Assistants in Livestream Selling: Evidence from A Randomized Field Experiment. <i>Under review</i>
- </li>
+ <li> Lingli Wang, Yumei He, Ni Huang, De Liu, Xunhua Guo, Yan Sun, Guoqing Chen. The Role of AI Assistants in Livestream Selling: Evidence from A Randomized Field Experiment. </li>
 
    <li>
-      <p style="display: inline;">Guo, Yiting; Liu, De; Xu, Sean Xin; Yin, Ximing. Is This Bot A Her? Field Evidence Of Ai Chatbot Gender Effect In Debt Collection. <i>Under Review</i></p>
+      <p style="display: inline;">Guo, Yiting; Liu, De; Xu, Sean Xin; Yin, Ximing. Is This Bot A Her? Field Evidence Of Ai Chatbot Gender Effect In Debt Collection. </p>
    </li>
    <li>
-      <p style="display: inline;">Pei Xu, Yiting Guo, De Liu. Does Augmented Reality Aid Product Sales? Evidence from a Natural Experiment. <i>Under Review</i></p>
+      <p style="display: inline;">Pei Xu, Yiting Guo, De Liu. Does Augmented Reality Aid Product Sales? Evidence from a Natural Experiment. </p>
    </li>
 </ul>
 
@@ -24,21 +23,20 @@ author_profile: true
 
 <ul>
    <li>
-       <p style="display: inline;">Bragging on Digital Platforms to Enhance Player Engagement: Insights from a Mobile Game
- (with Jingzhao An, Radhika Santhanam, Xi Zhao) <i>Under revision</i></p>
+       <p style="display: inline;">Bragging on Digital Platforms to Enhance Player Engagement: Insights from a Mobile Game  (with Jingzhao An, Radhika Santhanam, Xi Zhao) </p>
    </li>
    <li>
-       <p style="display: inline;">Examining Microtasking Design for Self-Improvement Apps Through a Present Bias Lens (with Yi Gao, Hong Guo, Dengpan Liu, and Xuying Zhao) <i>Under review</i></p>
+       <p style="display: inline;">Examining Microtasking Design for Self-Improvement Apps Through a Present Bias Lens (with Yi Gao, Hong Guo, Dengpan Liu, and Xuying Zhao) </p>
    </li>
    <li>
-      <p style="display: inline;">Re-engage Low Achievers: Effect of Meaningful Tangible Rewards in Gamified Online Learning (with Tao Li, Sean Xu) <i>working paper</i></p>
+      <p style="display: inline;">Re-engage Low Achievers: Effect of Meaningful Tangible Rewards in Gamified Online Learning (with Tao Li, Sean Xu) </p>
    
    </li>
 </ul>
 
 ### Social Media Manipulation
    <li>
-      <p style="display: inline;">Zihong Huang, De Liu. Economics of Fake Social Media Fake Accounts. <i>Working paper</i></p>
+      <p style="display: inline;">Zihong Huang, De Liu. Economics of Fake Social Media Fake Accounts. </p>
    </li>   
 
 
@@ -47,11 +45,10 @@ author_profile: true
 <ul>
 
    <li>
-      <p style="display: inline;">Zhihong Ke, De Liu, Gediminas Adomavicius. Towards a Measure of Online Review Quality.  <i>Under review</i></p>
+      <p style="display: inline;">Zhihong Ke, De Liu, Gediminas Adomavicius. Towards a Measure of Online Review Quality. </p>
    </li>
    <li>
-      <p style="display: inline;">Zhihong Ke,  Rui Huaxia, Alok Gupta, and De Liu. Rating Manipulation and Detection.  <i>Under Review</i></p>
-      
+      <p style="display: inline;">Zhihong Ke,  Rui Huaxia, Alok Gupta, and De Liu. Rating Manipulation and Detection. </p>
    </li>
 
 <!--    <li>
