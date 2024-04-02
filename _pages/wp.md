@@ -5,7 +5,7 @@ permalink: /wp/
 author_profile: true
 ---
 
-### AI
+### AI and Chatbot
 
 <ul>
 
