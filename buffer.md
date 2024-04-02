@@ -1,4 +1,7 @@
 ## Buffer
+2024-03-27 14:54:04 Interview, article AI curriclum
+2024-03-20 14:53:53: interview CBS north
+2024-03-27 14:53:36 - judging, health data competition. 
 
 - 2022-09-28 14:54:12 - amcis panel chair.
 - use this document to save items to be updated/inserted to vita

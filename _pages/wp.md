@@ -70,10 +70,6 @@ To confirm your paper’s place on the program, please ensure the following impo
       <p style="display: inline;">Zhihong Ke, De Liu, Gediminas Adomavicius. Towards a Measure of Online Review Quality.  <i>Under review</i></p>
    </li>
    <li>
-      <p style="display: inline;">Zhihong Ke, De Liu, Dan Brass. Behavioral Influence in Online User-Generated Content Communities: The Moderating Roles of Status and Tenure.  <i>Under review</i></p>
-      
-   </li>
-   <li>
       <p style="display: inline;">Zhihong Ke,  Rui Huaxia, Alok Gupta, and De Liu. Rating Manipulation and Detection.  <i>Under Review</i></p>
       
    </li>
