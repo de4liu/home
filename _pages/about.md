@@ -22,7 +22,7 @@ Dr. De Liu is a Xian Dong Eric Jing Professor of Information and Decision Scienc
 
 ## Research Interests
 
-- AI and Chatbots
+- AI and Chatbot
 - Gamification and Digital Engagement
 - Social Media Manipulation
 - User Generated Content
