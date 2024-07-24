@@ -1,5 +1,13 @@
+## 2024-07-23 23:00:55
+
+Management Science paper accepted. 
+
+
+
+
 ## Buffer
 
+2024-07-23 23:07:33, service, 10 year anniversary
 2024-04-30 00:09:48 service, 1st year exam committee.
 
 2024-03-27 14:54:04 Interview, article AI curriclum

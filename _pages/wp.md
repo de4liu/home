@@ -36,7 +36,7 @@ author_profile: true
 
 ### Social Media Manipulation
    <li>
-      <p style="display: inline;">Zihong Huang, De Liu. Economics of Fake Social Media Fake Accounts. </p>
+      <p style="display: inline;">Zihong Huang, Yi Gao, De Liu. Social Media Impersonation </p>
    </li>   
 
 
