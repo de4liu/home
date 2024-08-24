@@ -2,7 +2,20 @@
 
 Management Science paper accepted. 
 
+Thrilled to announce that our research paper "Economics of Social Media Fake Accounts", co-authored with Dr. Zihong Huang, has been accepted for publication in Management Science! 📝✨ It is one of my favorite projects in recent years and has been long time in the making.
 
+Our study delves into the complex ecosystem of fake social media accounts in the influencer economy. We investigate fake-account purchasing behaviors, the effectiveness of anti-fake measures, and their effects on social media platform profits and consumer welfare. Our findings reveal intriguing insights into how anti-fake efforts and measures may result in more fake accounts in the near term and why social media platforms favor minimal anti-fake efforts.
+
+Key takeaways:
+
+- Heightened efforts in detecting and removing fake accounts can sometimes result in an increase in fake accounts in equilibrium.
+- Purely profit-driven social media platforms tend to favor minimal anti-fake efforts.
+- Enhancing social media literacy and raising the costs of fake accounts benefit consumers, but they can negatively impact platform profits. 
+- Both platforms and consumers stand to gain from advancements in anti-fake technology, which can enhance the accurate identification of fake accounts.
+
+Check out the paper at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4206104 
+
+#Research #InfluencerEconomy #FakeAccounts #SocialMedia #ManagementScience #AcademicPublishing
 
 
 ## Buffer
