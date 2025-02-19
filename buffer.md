@@ -22,7 +22,6 @@ Check out the paper at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=42061
 
 2024-07-23 23:07:33, service, 10 year anniversary
 2024-04-30 00:09:48 service, 1st year exam committee.
-
 2024-03-27 14:54:04 Interview, article AI curriclum
 2024-03-20 14:53:53: interview CBS north
 2024-03-27 14:53:36 - judging, health data competition. 
