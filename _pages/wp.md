@@ -9,7 +9,7 @@ author_profile: true
 
 <ul>
 
-
+ <li> Lingli Wang, Yumei He, Ni Huang, De Liu, Xunhua Guo, Yan Sun, Guoqing Chen. The Role of AI Assistants in Livestream Selling: Evidence from A Randomized Field Experiment. </li>
 
    <li>
       <p style="display: inline;">Guo, Yiting; Liu, De; Xu, Sean Xin; Yin, Ximing. Is This Bot A Her? Field Evidence Of Ai Chatbot Gender Effect In Debt Collection. </p>
@@ -54,9 +54,7 @@ author_profile: true
 <!--    <li>
       <p style="display: inline;">Yumei He, Xunhua Guo, De Liu, and Guoqing Chen. Just Enjoy it! The Effect of Model Attractiveness in Online Review Helpfulness. <i>Working paper</i></p>
    </li> -->
-<!--    <li>
-      <p style="display: inline;">Juan Ling, Raina Brands, Dan Brass, De Liu, Steve Borgatti, and Ajay Mehra. Gender, Structural Hules, and Legitimacy: The Production of Useful Knowledge in Elite Management Journals (1970- 2006). <i>Working paper</i></p>
-   </li> -->
+
 </ul>
 
 
