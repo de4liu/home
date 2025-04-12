@@ -12,7 +12,7 @@ author_profile: true
    <li>
       <p style="display: inline;">Guo, Yiting; Liu, De; Xu, Sean Xin; Yin, Ximing. Does Bot Gender Matter? Theory and Evidence from a Tense Service Context. Accepted at <strong>MIS Quarterly</strong> </p>
    </li>
-   <li> Ling, Juan; Brands, Raina; Brass, Daniel; Borgatti, Stephen P.; Liu, De; Mehra, Ajay. Gender, Structural Holes, and Citations: The Effects of Women’s Increasing Proportional Representation in a Field (2025). Accepted at <strong>Group & Organization Management</strong>. <a href="/home/files/gender-structural-holes.pdf">PDF</a></li></li>
+   <li> Ling, Juan; Brands, Raina; Brass, Daniel; Borgatti, Stephen P.; Liu, De; Mehra, Ajay. Gender, Structural Holes, and Citations: The Effects of Women’s Increasing Proportional Representation in a Field (2025). Accepted at <strong>Group & Organization Management</strong>. <a href="/home/files/gender-structural-holes.pdf">PDF</a></li>
   <li> Lingli Wang, Yumei He, Ni Huang, De Liu, Xunhua Guo, Yan Sun, Guoqing Chen. AI Streaming Assistant in Online Shopping: A Randomized Field Experiment on a Livestream Selling Platform (2025). Accepted at <strong>Information Systems Research</strong>.<a href="/home/files/livestream.pdf">PDF</a></li>
    <li>Zihong Huang, De Liu. Economics of Fake Social Media Fake Accounts. Forthcoming at <strong>Management Science</strong>. <a href="/home/files/fake_accounts.pdf">PDF</a></li>
    <li>Zhihong Ke, De Liu, Dan Brass. Magnify Cascades of eWOM on Social Networks: The Roles of User, Product, and Relationship Characteristics (2024).  Accepted at <strong>Production and Operations Management</strong>. <a href="/home/files/cascades.pdf">PDF</a></li>
