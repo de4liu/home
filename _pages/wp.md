@@ -9,8 +9,6 @@ author_profile: true
 
 <ul>
 
- <li> Lingli Wang, Yumei He, Ni Huang, De Liu, Xunhua Guo, Yan Sun, Guoqing Chen. The Role of AI Assistants in Livestream Selling: Evidence from A Randomized Field Experiment. </li>
-
 
    <li>
       <p style="display: inline;">Pei Xu, Yiting Guo, De Liu. Does Augmented Reality Aid Product Sales? Evidence from a Natural Experiment. </p>
