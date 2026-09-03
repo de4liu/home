@@ -1,3 +1,17 @@
 _site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+node_modules/
 markdown_generator/.ipynb_checkpoints/
 venv/
+.venv/
+.env
+.env.*
+!.env.example
+
+# Personal scratch
+buffer.task
+*.task

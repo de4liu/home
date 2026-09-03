@@ -3,14 +3,11 @@ main:
   - title: "CV/Bio"
     url: /cv/
 
-
   - title: "Publications"
     url: /publications/
 
-  # journal and conference papers
-
   - title: "Working Papers"
-    url: /wp/    
+    url: /wp/
 
   - title: "Teaching"
     url: /teaching/
@@ -19,13 +16,4 @@ main:
     url: /awards/
 
   - title: "Contact"
-    url: /contact/  
-    
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+    url: /contact/
