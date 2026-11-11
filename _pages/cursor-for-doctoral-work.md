@@ -38,6 +38,8 @@ You do not need to be a software engineer to benefit. Many of the highest-levera
 
 **Student pricing note (as of mid-2026).** The older "free year of Cursor Pro" student offer is **closed to new claims**. Anyone can start on the free Hobby plan via [cursor.com/students](https://cursor.com/students). Watch that page for campus / online event promotions and whatever credit or discount paths Cursor currently lists for graduate students and researchers. Do not rely on older blog posts that still advertise a free Pro year; several widely shared guides are now out of date.
 
+**Update (November 11, 2026).** Since this was written, Cursor's new parent (SpaceX, which includes xAI) moved Cursor to the X Subscription lineup for new customers on October 12, 2026. The monthly plans now limit included usage to Cursor's own models (Grok and Composer); third-party models such as Claude, GPT, and Gemini are billed separately at API list prices. If you want an editor built around other models, the closer matches to the old Cursor experience are Devin (formerly Windsurf) and VS Code.
+
 ## Starter resources
 
 ### Notes, writing, and "knowledge codebase" workflows
