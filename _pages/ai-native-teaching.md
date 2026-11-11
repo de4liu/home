@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+*November 11, 2026*
+
 This semester marks the first of what I think of as my AI-native era of teaching. I ran my Agentic AI for Business Applications course (IDSC 4590) on an agentic workflow: everything students see, from the syllabus to the slide decks to the Canvas pages and activity handouts, starts as plain text in a git repository, and a coding agent does most of the production work under my control. There is a certain symmetry in teaching agentic AI with agentic AI, but that is not the point of this piece. The point is what the workflow did to my work as a teacher: where it freed me, where it still needs me, and what it taught me about teaching itself.
 
 ## The setup
