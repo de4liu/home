@@ -15,3 +15,6 @@ venv/
 # Personal scratch
 buffer.task
 *.task
+
+# Windows copy artifacts
+*:Zone.Identifier

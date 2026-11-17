@@ -3,6 +3,14 @@
 All notable changes to this site are documented here.
 Format: [Keep a Changelog](https://keepachangelog.com/). Versioning: [SemVer](https://semver.org/).
 
+## [Unreleased]
+
+## [1.0.1] - 2026-11-16
+
+### Changed
+
+- Gitignore `*:Zone.Identifier` files left by Windows copies.
+
 ## [1.0.0] — 2026-09-03
 
 Major cleanup of the academicpages fork. Removes all template demo content,
